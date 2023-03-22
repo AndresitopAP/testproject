@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Insumo",
+        "code": "IN"
+    },
+    {
+        "name": "Mascarilla",
+        "code": "MA"
+    },
+    {
+        "name": "Equipo",
+        "code": "EQ"
+    },
+    {
+        "name": "Rentable",
+        "code": "RE"
+    },
+    {
+        "name": "Medicamentos",
+        "code": "ME"
+    }
+]
